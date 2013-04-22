@@ -1,1 +1,57 @@
 Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-04-22 17:00:57 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (70.8ms)
+Compiled static.css  (84ms)  (pid 4138)
+Compiled static_pages.css  (2ms)  (pid 4138)
+Compiled application.css  (156ms)  (pid 4138)
+Compiled jquery.js  (5ms)  (pid 4138)
+Compiled jquery_ujs.js  (0ms)  (pid 4138)
+Compiled static.js  (1275ms)  (pid 4138)
+Compiled static_pages.js  (510ms)  (pid 4138)
+Compiled application.js  (1928ms)  (pid 4138)
+Completed 200 OK in 2506ms (Views: 2505.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-04-22 17:01:00 +0300
+Served asset /application.css - 200 OK (17ms)
+
+
+Started GET "/assets/static.css?body=1" for 127.0.0.1 at 2013-04-22 17:01:00 +0300
+Served asset /static.css - 200 OK (12ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-04-22 17:01:00 +0300
+Served asset /static_pages.css - 200 OK (64ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-04-22 17:01:00 +0300
+Served asset /jquery.js - 200 OK (30ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-04-22 17:01:00 +0300
+Served asset /jquery_ujs.js - 200 OK (21ms)
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2013-04-22 17:01:00 +0300
+Served asset /static.js - 200 OK (3ms)
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-04-22 17:01:00 +0300
+Served asset /static_pages.js - 200 OK (14ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-04-22 17:01:00 +0300
+Served asset /application.js - 200 OK (63ms)
